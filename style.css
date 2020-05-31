@@ -1,0 +1,26 @@
+.timer {
+    display: flex;
+    justify-content: center;
+    margin: 50px auto;
+}
+
+.field {
+    padding: 30px;
+    margin: 0 5px 0 25px;
+    border: 2px solid #ffd700;
+}
+
+.value {
+    padding: 30px;
+    font-size: 64px;
+    color: #47b43d;
+}
+
+.label {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-style: italic;
+    color: #7791da;
+    font-size: 35px;
+}
